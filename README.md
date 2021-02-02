@@ -15,7 +15,7 @@
   <p align="center">
     Welcome to the GitHub repository of Neural Networks!
     <br />
-    <a href="https://github.com/mehulsharma19/neural-networks/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mehulsharma19/neural-networks/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     ·
     <a href="https://github.com/mehulsharma19/neural-networks/wiki">Wiki</a>
@@ -41,8 +41,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screenshot][product-screenshot]](https://github.com/mehulsharma19/neural-networks)
-
 This repository contains the source code for some of the classic *Neural Networks*- a repository of various artificial neural networks. The repository has different folders for all the different types of neural networks from perceptron to backpropagation.
 
 ### Built With
@@ -59,12 +57,12 @@ The repository is simple and easy to use. To execute, simply:
 
 ## Contributing
 
-This project welcomes contributions and suggestions. Feel free to fork this repository or submit your ideas through [issues](https://github.com/mehulsharma19/neural-networks/issues). Please carefully read and follow the [Contributor Covenant Code of Conduct](https://github.com/mehulsharma19/neural-networks/blob/main/CODE_OF_CONDUCT.md) while participating in this project.
+This project welcomes contributions and suggestions. Feel free to fork this repository or submit your ideas through [issues](https://github.com/mehulsharma19/neural-networks/issues). Please carefully read and follow the [Contributor Covenant Code of Conduct](https://github.com/mehulsharma19/neural-networks/blob/master/CODE_OF_CONDUCT.md) while participating in this project.
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/mehulsharma19/neural-networks/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/mehulsharma19/neural-networks/blob/master/LICENSE) for more information.
 
 <!-- CONTACT -->
 ## Contact
@@ -78,7 +76,7 @@ Feel free to hmu on my [LinkedIn](https://www.linkedin.com/in/mehul-sharma-51291
 [repo]: https://img.shields.io/github/repo-size/mehulsharma19/neural-networks
 [repo-url]: https://github.com/mehulsharma19/neural-networks
 [last]: https://img.shields.io/github/last-commit/mehulsharma19/neural-networks
-[last-url]: https://github.com/mehulsharma19/neural-networks/commits/main
+[last-url]: https://github.com/mehulsharma19/neural-networks/commits/master
 [contributors]: https://img.shields.io/github/contributors/mehulsharma19/neural-networks
 [contributors-url]: https://github.com/mehulsharma19/neural-networks/graphs/contributors
 [issues]: https://img.shields.io/github/issues-raw/mehulsharma19/neural-networks
@@ -87,5 +85,5 @@ Feel free to hmu on my [LinkedIn](https://www.linkedin.com/in/mehul-sharma-51291
 [license-url]: https://github.com/mehulsharma19/neural-networks/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-lightgrey?logo=LinkedIn&style=social
 [linkedin-url]: https://www.linkedin.com/in/mehul-sharma-512916183/
-[github-shield]: https://img.shields.io/github/followers/shridpant?style=social
+[github-shield]: https://img.shields.io/github/followers/MehulSharma19?style=social
 
